@@ -5,7 +5,7 @@ public class Main {
         int a;
         char b;
         a=3;
-        b="C";
+        b= 'C';
         System.out.println(a);
         System.out.println(b);
     }
