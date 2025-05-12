@@ -6,7 +6,7 @@ public class Main {
         char b;
         a=3;
         b="C";
-        System.out.pritnln(a);
-        System.out.pritnln(b);
+        System.out.println(a);
+        System.out.println(b);
     }
 }
