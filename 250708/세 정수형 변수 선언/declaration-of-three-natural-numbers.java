@@ -5,7 +5,7 @@ public class Main {
         b=23;
         c=30;
     
-        System.out.printf("%d\n + %d\n = %d\n", a,b,c);
+        System.out.printf("%d + %d = %d", a,b,c);
 
     }
 }
